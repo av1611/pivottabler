@@ -4,7 +4,7 @@ pivottabler 1.1.0
 Overview
 --------
 
-This release includes:
+This test release includes:
 
 * Convert a pivot tabler to a basic table
 * Many small styling improvements
